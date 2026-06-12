@@ -1,7 +1,7 @@
 ﻿using CupidServer.hubs;
-using CupidServer.models;
 using Microsoft.AspNetCore.SignalR;
 using System.Security.Cryptography;
+using CupidServer.models;
 
 namespace CupidServer.services
 {
